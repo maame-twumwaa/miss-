@@ -24,4 +24,4 @@ This project is primarily built using front-end technologies, focusing on a clea
 ## Getting Started
 To use StudyPlan locally, simply clone this repository and open the `index.html` file in your web browser.
 ```bash
-site link 
+Github link: https://github.com/maame-twumwaa/miss-.git
