@@ -24,11 +24,4 @@ This project is primarily built using front-end technologies, focusing on a clea
 ## Getting Started
 To use StudyPlan locally, simply clone this repository and open the `index.html` file in your web browser.
 ```bash
-git clone [https://github.com/your-username/studyplan.git](https://github.com/your-username/studyplan.git)
-cd studyplan
-open index.html  # For macOS
-# or
-start index.html # For Windows
-
-
-# miss-
+site link 
